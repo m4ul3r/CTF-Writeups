@@ -9,7 +9,8 @@ Author: Noodle
 
 Loading third_eye.mp3 into `Sonic Visualizer` and adding a spectogram visualizer displayed hex characters.
 
-![[Pasted image 20210508164150.png]]
+![image](Pasted%20image%2020210508164150.png)
+
 `44 61 77 67 43 54 46 7b 73 79 6e 33 73 74 68 33 73 31 61 63 73 7d`
 
 Converted from Hex to ASCII yields the flag.
