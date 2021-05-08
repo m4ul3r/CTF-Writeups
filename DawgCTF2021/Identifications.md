@@ -12,7 +12,7 @@ Once you figure out the CLLI code, make sure to wrap it in DawgCTF{}.
 Author: nb
 ```
 
-Identifications was an OSINT challenge. DawgCTF was hosted by the University of Maryland, Baltimore County (UMBC). The two pictures included showed a list of Wi-Fi connections and a building with a Verizon sign.
+Identifications was an OSINT challenge. DawgCTF was hosted by the University of Maryland, Baltimore County (UMBC). The two pictures included showed a list of Wi-Fi connections and a building with a Verizon sign. Because of the location of UMBC, I narrowed the search down to the North-Eastern United States.
 
 ![[identifications_1.jpg]]
 ![[identifications_2.jpg]]
