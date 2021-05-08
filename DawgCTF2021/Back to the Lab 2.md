@@ -40,6 +40,6 @@ Done. New system time is: "01:28 AM Mon, Feb 06, 2040"
 
 Can then run `get_flag` to retrieve flag
 ```bash
- get_flag
+DAWG> get_flag
 DawgCTF{t1m3_b3ck0n1ng_m3}
 ```
