@@ -14,7 +14,7 @@ Author: nb
 ```
 
 This challenge was a recon. After searching through the site, the login page was discovered at https://phriedmansystems.onrender.com/login.html. The CEO's username was needed for the challenge.
-![[Pasted image 20210508172959.png]]
+![ceo](https://github.com/m4ul3r/CTF-Writeups/blob/main/DawgCTF2021/Pasted%20image%2020210508172959.png)
 
 Looking at the employee's page (https://phriedmansystems.onrender.com/employees.html), the format of an employee's username was found to possibly be: rfiddson@phriedmansystems
 
@@ -24,6 +24,6 @@ Finding the password proved to be a little tricky as it was not on the website, 
 
 The phone number was an automated system. One option was to learn about the company, this informed that the CEO was from Albany, NY. Another option was for IT/Technical Support, where the CEO's password could be reset. Confirming a security question of the CEO's hometown gave the password: `monkey_alpaca_excellent_button_7435`
 
-![[Pasted image 20210508173733.png]]
+![](https://github.com/m4ul3r/CTF-Writeups/blob/main/DawgCTF2021/Pasted%20image%2020210508173733.png)
 
 `DawgCTF{y0ur_c4ll_1s_v3ry_1mp0rt4nt_t0_u5}`
